@@ -1,0 +1,2 @@
+endpoint  = "https://192.168.50.100:8006" # вставить ip адрес proxmox
+api_token = "terraform@pve!lab=xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" # получить эту строку скриптом init.sh в proxmox
